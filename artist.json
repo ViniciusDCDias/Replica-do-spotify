@@ -1,0 +1,124 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Anitta",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000517403479cd9d2eec574230368d4"
+    },
+    {
+      "id": 2,
+      "name": "Marília Mendonça",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab67616100005174ffaebdbc972967729f688e25"
+    },
+    {
+      "id": 3,
+      "name": "Henrique & Juliano",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab676161000051744dcd8a3bff84cd7703892cf4"
+    },
+    {
+      "id": 4,
+      "name": "Zé Neto e Cristiano",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb7098ffe23a919f7742979c6e"
+    },
+    {
+      "id": 5,
+      "name": "Gusttavo Lima",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab6775700000ee85563790af1248221a4ebbc82a"
+    },
+    {
+      "id": 6,
+      "name": "Jorge & Mateus",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab6761610000517477937baabc49dea13c17c706"
+    },
+    {
+      "id": 7,
+      "name": "Alok",
+      "genre": "Eletrônica",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebf7d1bdca65e1cefd4e60c379"
+    },
+    {
+      "id": 8,
+      "name": "Luan Santana",
+      "genre": "Sertanejo",
+      "urlImg": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8479115ab66d75ec19883bf2d0"
+    },
+    {
+      "id": 9,
+      "name": "Ludmilla",
+      "genre": "Funk",
+      "urlImg": "https://i.scdn.co/image/ab67616d0000b2732b655668cf4af83aa5481550"
+    },
+    {
+      "id": 10,
+      "name": "Wesley Safadão",
+      "genre": "Forró",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb7c9401ef57265cd88f00cd93"
+    },
+    {
+      "id": 11,
+      "name": "Maiara & Maraisa",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab6775700000ee85754fcaf2500379bdbbcfb9ec"
+    },
+    {
+      "id": 12,
+      "name": "Simone Mendes",
+      "genre": "Sertanejo",
+      "urlImg": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e73a626d6d1a19e94e17bfc8"
+    },
+    {
+      "id": 13,
+      "name": "Manu Bahtidão",
+      "genre": "Forró",
+      "urlImg": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c9a2c5e3e9af929d4c8835a6"
+    },
+    {
+      "id": 14,
+      "name": "Simone e Simaria",
+      "genre": "Sertanejo",
+      "urlImg": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8480a9611f81c99255d191ff62"
+    },
+    {
+      "id": 15,
+      "name": "Melody",
+      "genre": "Pop",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb6fac2f5515ccb4fcb892e1ab"
+    },
+    {
+      "id": 16,
+      "name": "MC Ryan SP",
+      "genre": "Funk",
+      "urlImg": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ca219921f19e86dc73f7a075"
+    },
+    {
+      "id": 17,
+      "name": "WIU",
+      "genre": "Trap",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eba99239905a1149b25c8a69ad"
+    },
+    {
+      "id": 18,
+      "name": "Veigh",
+      "genre": "Trap",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5ebe32110a6a91105938bb4e026"
+    },
+    {
+      "id": 19,
+      "name": "Michel Teló",
+      "genre": "Sertanejo",
+      "urlImg": "https://i.scdn.co/image/ab6761610000e5eb04f64ef5cf013f38ae29e8ec"
+    },
+    {
+      "id": 20,
+      "name": "Belo",
+      "genre": "Pagode",
+      "urlImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHCToi6UfXC7fAVKusp2BSK7-Y6Q73QA8pqQ&s"
+    }
+  ]
+}
